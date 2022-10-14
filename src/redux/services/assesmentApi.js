@@ -29,4 +29,5 @@ export const apiSlice=createApi({
 
 export const {
    useLoginUserMutation,
+   useGetStockQuery
 } = apiSlice
